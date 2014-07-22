@@ -1,0 +1,32 @@
+{
+  "name": "groovesharkapp",
+  "version": "0.0.1",
+  "description": "A Grooveshark CLI client",
+  "main": "lib/gscli",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresgcarmona/groovesharkcli"
+  },
+  "keywords": [
+    "grooveshark",
+    "music",
+    "stream",
+    "streaming",
+    "cli"
+  ],
+  "author": "Andrés G. Carmona",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/andresgcarmona/groovesharkcli/issues"
+  },
+  "homepage": "https://github.com/andresgcarmona/groovesharkcli",
+  "dependencies": {
+    "clivas": "^0.1.4",
+    "crypto": "0.0.3",
+    "md5": "^1.0.0",
+    "request": "^2.37.0"
+  }
+}
