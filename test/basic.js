@@ -1,6 +1,6 @@
 var gscli = require('../lib/gscli'),
 	username = 'andres_gcarmona',
-	password = 'angyco830508';
+	password = 'ioioioio';
 
 var player = new gscli();
 
